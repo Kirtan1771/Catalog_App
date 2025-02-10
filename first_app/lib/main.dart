@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
         fontFamily: GoogleFonts.poppins().fontFamily
-      ),git
+      ),
       debugShowCheckedModeBanner: false,
       routes: {
         "/": (context) => LoginPage(),
